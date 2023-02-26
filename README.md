@@ -1,4 +1,4 @@
-# SQLDataExploration
+# SQL Data Exploration
 
 ## Description
 This project based on [Alex Freberg's SQL Data Exploration Tutorial on Youtube](https://youtu.be/qfyynHBFOsM). I use Microsoft SQL Server to do this project and get the dataset from [here](https://ourworldindata.org/covid-deaths). There are some exploration I did in this project, such as:
